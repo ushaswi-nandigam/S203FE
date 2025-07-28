@@ -85,7 +85,7 @@ const BASE_URL = 'http://localhost:9090/springapp1';
             <div className="col-sm-9">
               <input
                 type="text"
-                name="name"
+                name="Name"
                 id="name"
                 className="form-control"
                 value={product.name}
@@ -99,7 +99,7 @@ const BASE_URL = 'http://localhost:9090/springapp1';
             <div className="col-sm-9">
               <input
                 type="text"
-                name="os"
+                name="OS"
                 id="os"
                 className="form-control"
                 value={product.os}
@@ -113,7 +113,7 @@ const BASE_URL = 'http://localhost:9090/springapp1';
             <div className="col-sm-9">
               <input
                 type="text"
-                name="price"
+                name="price in Rs"
                 id="price"
                 className="form-control"
                 value={product.price}
