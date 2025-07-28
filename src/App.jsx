@@ -81,7 +81,7 @@ const BASE_URL = 'http://localhost:9090/springapp1';
             </div>
           </div>
           <div className="form-group row">
-            <label htmlFor="name" className="col-sm-3 col-form-label form-label">Name of the product:</label>
+            <label htmlFor="name" className="col-sm-3 col-form-label form-label">Enter name of the product:</label>
             <div className="col-sm-9">
               <input
                 type="text"
